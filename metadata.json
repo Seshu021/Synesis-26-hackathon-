@@ -1,0 +1,6 @@
+{
+  "name": "SmartFlow AI — Hospital Resource Optimization",
+  "description": "Intelligent Hospital Resource Optimization Platform for predicting bottlenecks, optimizing bed capacity, patient flow forecasting, and what-if simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
